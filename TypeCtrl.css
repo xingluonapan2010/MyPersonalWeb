@@ -1,0 +1,81 @@
+*{
+    margin:0;
+    padding:0;
+}
+body {
+    background-color: black;
+}
+.TmpA {
+    color: #ffd966;
+    text-decoration: none;
+}
+.TmpA:hover{
+    text-decoration:underline #ffd966;
+}
+@font-face{
+    font-family:'Hanken-Book';
+    src:url(FontFamilies/Hanken-Book.ttf);
+}
+@font-face{
+    font-family:'Gauthier';
+    src:url(FontFamilies/Gauthier.ttf);
+}
+h4{
+    font-size:2em;
+    letter-spacing:2px;
+    font-family:Hanken-Book;
+}
+p{
+    text-indent:16px;
+    font-family:Gauthier;
+}
+
+.DefaultLike{
+    color:white;
+}
+.container{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+}
+.container .box{
+    box-sizing:border-box;/*防止鼠标悬浮在盒子上时因白边而向外扩张*/
+    position:relative;
+    width:280px;
+    height:350px;
+    margin:80px;
+    padding:20px 5px;
+    background-color:rgba(255,255,255,0.15);
+    border-radius:15px;
+}
+.container .box:hover{
+    background-color:#FF007F;
+    border:white 1.5px solid
+}
+.container .FlexStyle{
+    color:white;
+    text-decoration:none;
+}
+.self-def-container{
+    display:flex;
+    justify-content:left;
+    width:300px;
+}
+.self-def-container .box #TitleImageLike{
+    position:relative;
+    left:85px;
+    top:95px;
+    width:100px;
+    height:100px;
+    border-radius:10px;
+}
+.self-def-container .box #TitleLike{
+    position:relative;
+    width:900px;
+    height:145px;
+    padding-left:10px;
+    margin-left:100px;
+    margin-top:80px;
+    border-left:#ffd966 3px solid;
+}
+

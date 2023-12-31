@@ -1,0 +1,40 @@
+body{
+    background-color:black;
+    background-size:cover;
+    color:white;
+}
+
+.BlackBKGText{
+    background-color:black;
+}
+
+.container{
+    display:grid;
+    gap:40px;
+    grid-template-columns:1fr;
+}
+
+.box{
+    position:relative;
+    background-color:rgba(255,255,255,0.15);
+    border:white 1.5px solid;
+    width:80%;
+    margin:auto;
+    border-radius:15px;
+    padding:20px;
+}
+
+@font-face{
+    font-family:'Hanken-Book';
+    src:url(../FontFamilies/Hanken-Book.ttf);
+}
+
+h1{
+    font-size:3.8em;
+    font-family:Hanken-Book;
+    letter-spacing:3.8px;
+}
+
+h3{
+    color:#ffd966;
+}
