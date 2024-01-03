@@ -61,7 +61,7 @@ p{
     justify-content:left;
     width:300px;
 }
-.self-def-container .box #TitleImageLike{
+.self-def-container .boxtitle #TitleImageLike{
     position:relative;
     left:85px;
     top:95px;
@@ -69,10 +69,10 @@ p{
     height:100px;
     border-radius:10px;
 }
-.self-def-container .box #TitleLike{
+.self-def-container .boxtitle #TitleLike{
     position:relative;
     width:900px;
-    height:145px;
+    height:130px;
     padding-left:10px;
     margin-left:100px;
     margin-top:80px;
