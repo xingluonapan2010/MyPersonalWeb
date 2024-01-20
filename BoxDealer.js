@@ -9,3 +9,9 @@ for (var i = 0; i < AllBox.length; i++) {
         })
     }
 }
+
+NoRemindBox.style.cursor = "pointer"
+
+NoRemindBox.addEventListener('click', function () {
+    window.open('Introductions/Introductions.html')
+})
