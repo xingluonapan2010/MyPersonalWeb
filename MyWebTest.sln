@@ -14,6 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{1C7DEFD9
 	ProjectSection(SolutionItems) = preProject
 		FontFamilies\Gauthier.ttf = FontFamilies\Gauthier.ttf
 		FontFamilies\Hanken-Book.ttf = FontFamilies\Hanken-Book.ttf
+		FontFamilies\Plumage.ttf = FontFamilies\Plumage.ttf
 		FontFamilies\Sarina.ttf = FontFamilies\Sarina.ttf
 	EndProjectSection
 EndProject

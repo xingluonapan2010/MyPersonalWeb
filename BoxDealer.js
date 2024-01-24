@@ -1,17 +1,11 @@
 // JavaScript source code
-var AllBox = document.getElementsByClassName('box')
-var NoRemindBox = document.getElementById('NoRemind')
+var ProgramsDealer = document.getElementById('ProgramsBox')
+var AnimeDealer = document.getElementById('AnimeBox')
+var ArticalsDealer = document.getElementById('ArticalsBox')
 
-for (var i = 0; i < AllBox.length; i++) {
-    if (AllBox[i] != NoRemindBox) {
-        AllBox[i].addEventListener('click', function () {
-            alert('This page is still developing.')
-        })
-    }
+//alert('This page is still developing.')
+var StartDealers = [ProgramsDealer, AnimeDealer, ArticalsDealer]
+
+for (let a = 0; a < StartDealers.length; a++) {
+    StartDealers[a].style.cursor = "pointer"
 }
-
-NoRemindBox.style.cursor = "pointer"
-
-NoRemindBox.addEventListener('click', function () {
-    window.open('Introductions/Introductions.html')
-})
