@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E122DCC9-A0DF-4634-A79A-F00F4AF0098E}|NewFolder1{E122DCC9-A0DF-4634-A79A-F00F4AF0098E}|D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\MainPage\\MyWebPage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E122DCC9-A0DF-4634-A79A-F00F4AF0098E}|NewFolder1{E122DCC9-A0DF-4634-A79A-F00F4AF0098E}|solutionrelative:MainPage\\MyWebPage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122DCC9-A0DF-4634-A79A-F00F4AF0098E}|NewFolder1{E122DCC9-A0DF-4634-A79A-F00F4AF0098E}|D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\MainPage\\MyWebPage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E122DCC9-A0DF-4634-A79A-F00F4AF0098E}|NewFolder1{E122DCC9-A0DF-4634-A79A-F00F4AF0098E}|solutionrelative:MainPage\\MyWebPage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63674D11-00A0-40EB-A46D-B59271E8AF48}|main{63674D11-00A0-40EB-A46D-B59271E8AF48}|D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Programs\\main\\programs.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63674D11-00A0-40EB-A46D-B59271E8AF48}|main{63674D11-00A0-40EB-A46D-B59271E8AF48}|solutionrelative:Programs\\main\\programs.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63674D11-00A0-40EB-A46D-B59271E8AF48}|main{63674D11-00A0-40EB-A46D-B59271E8AF48}|D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Programs\\main\\programs.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{63674D11-00A0-40EB-A46D-B59271E8AF48}|main{63674D11-00A0-40EB-A46D-B59271E8AF48}|solutionrelative:Programs\\main\\programs.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50338418-C9D7-4475-91B1-68801CA3B04B}|ChemistryPusher{50338418-C9D7-4475-91B1-68801CA3B04B}|D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Programs\\ChemistryPusher\\RelativeMass\\ChemistryPusher.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{50338418-C9D7-4475-91B1-68801CA3B04B}|ChemistryPusher{50338418-C9D7-4475-91B1-68801CA3B04B}|solutionrelative:Programs\\ChemistryPusher\\RelativeMass\\ChemistryPusher.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50338418-C9D7-4475-91B1-68801CA3B04B}|ChemistryPusher{50338418-C9D7-4475-91B1-68801CA3B04B}|D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Programs\\ChemistryPusher\\RelativeMass\\ChemistryPusher.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50338418-C9D7-4475-91B1-68801CA3B04B}|ChemistryPusher{50338418-C9D7-4475-91B1-68801CA3B04B}|solutionrelative:Programs\\ChemistryPusher\\RelativeMass\\ChemistryPusher.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E122DCC9-A0DF-4634-A79A-F00F4AF0098E}|NewFolder1{E122DCC9-A0DF-4634-A79A-F00F4AF0098E}|D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\MainPage\\BoxDealer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E122DCC9-A0DF-4634-A79A-F00F4AF0098E}|NewFolder1{E122DCC9-A0DF-4634-A79A-F00F4AF0098E}|solutionrelative:MainPage\\BoxDealer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DEFD9-E13D-4D41-841F-A4C9350D1AEA}|fonts{1C7DEFD9-E13D-4D41-841F-A4C9350D1AEA}|D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\FontFamilies\\Dancing-Script-Bold.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1C7DEFD9-E13D-4D41-841F-A4C9350D1AEA}|fonts{1C7DEFD9-E13D-4D41-841F-A4C9350D1AEA}|solutionrelative:FontFamilies\\Dancing-Script-Bold.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E69F9D-C2B3-411A-BBA8-34715D7E4779}|icon{F0E69F9D-C2B3-411A-BBA8-34715D7E4779}|D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Icon\\qqEmail.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{F0E69F9D-C2B3-411A-BBA8-34715D7E4779}|icon{F0E69F9D-C2B3-411A-BBA8-34715D7E4779}|solutionrelative:Icon\\qqEmail.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E69F9D-C2B3-411A-BBA8-34715D7E4779}|icon{F0E69F9D-C2B3-411A-BBA8-34715D7E4779}|D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Icon\\github.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{F0E69F9D-C2B3-411A-BBA8-34715D7E4779}|icon{F0E69F9D-C2B3-411A-BBA8-34715D7E4779}|solutionrelative:Icon\\github.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DEFD9-E13D-4D41-841F-A4C9350D1AEA}|fonts{1C7DEFD9-E13D-4D41-841F-A4C9350D1AEA}|D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\FontFamilies\\Plumage.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1C7DEFD9-E13D-4D41-841F-A4C9350D1AEA}|fonts{1C7DEFD9-E13D-4D41-841F-A4C9350D1AEA}|solutionrelative:FontFamilies\\Plumage.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7DEFD9-E13D-4D41-841F-A4C9350D1AEA}|fonts{1C7DEFD9-E13D-4D41-841F-A4C9350D1AEA}|D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\FontFamilies\\Sarina.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1C7DEFD9-E13D-4D41-841F-A4C9350D1AEA}|fonts{1C7DEFD9-E13D-4D41-841F-A4C9350D1AEA}|solutionrelative:FontFamilies\\Sarina.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyWebPage.html",
+              "DocumentMoniker": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\MainPage\\MyWebPage.html",
+              "RelativeDocumentMoniker": "MainPage\\MyWebPage.html",
+              "ToolTip": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\MainPage\\MyWebPage.html",
+              "RelativeToolTip": "MainPage\\MyWebPage.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-30T06:30:05.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyWebPage.css",
+              "DocumentMoniker": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\MainPage\\MyWebPage.css",
+              "RelativeDocumentMoniker": "MainPage\\MyWebPage.css",
+              "ToolTip": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\MainPage\\MyWebPage.css",
+              "RelativeToolTip": "MainPage\\MyWebPage.css",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAC8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-30T06:30:03.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoxDealer.js",
+              "DocumentMoniker": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\MainPage\\BoxDealer.js",
+              "RelativeDocumentMoniker": "MainPage\\BoxDealer.js",
+              "ToolTip": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\MainPage\\BoxDealer.js",
+              "RelativeToolTip": "MainPage\\BoxDealer.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-30T06:29:59.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChemistryPusher.html",
+              "DocumentMoniker": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Programs\\ChemistryPusher\\RelativeMass\\ChemistryPusher.html",
+              "RelativeDocumentMoniker": "Programs\\ChemistryPusher\\RelativeMass\\ChemistryPusher.html",
+              "ToolTip": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Programs\\ChemistryPusher\\RelativeMass\\ChemistryPusher.html",
+              "RelativeToolTip": "Programs\\ChemistryPusher\\RelativeMass\\ChemistryPusher.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-11T02:53:36.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChemistryPusher.js",
+              "DocumentMoniker": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Programs\\ChemistryPusher\\RelativeMass\\ChemistryPusher.js",
+              "RelativeDocumentMoniker": "Programs\\ChemistryPusher\\RelativeMass\\ChemistryPusher.js",
+              "ToolTip": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Programs\\ChemistryPusher\\RelativeMass\\ChemistryPusher.js",
+              "RelativeToolTip": "Programs\\ChemistryPusher\\RelativeMass\\ChemistryPusher.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-02-11T03:03:52.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "programs.css",
+              "DocumentMoniker": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Programs\\main\\programs.css",
+              "RelativeDocumentMoniker": "Programs\\main\\programs.css",
+              "ToolTip": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Programs\\main\\programs.css",
+              "RelativeToolTip": "Programs\\main\\programs.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-11T02:42:00.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "programs.html",
+              "DocumentMoniker": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Programs\\main\\programs.html",
+              "RelativeDocumentMoniker": "Programs\\main\\programs.html",
+              "ToolTip": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Programs\\main\\programs.html",
+              "RelativeToolTip": "Programs\\main\\programs.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-11T02:35:16.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sarina.ttf",
+              "DocumentMoniker": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\FontFamilies\\Sarina.ttf",
+              "RelativeDocumentMoniker": "FontFamilies\\Sarina.ttf",
+              "ToolTip": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\FontFamilies\\Sarina.ttf",
+              "RelativeToolTip": "FontFamilies\\Sarina.ttf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMLSURBVEhL7VVLaxNRFP5mkjbGFCumgdQqhSq2xQqC2m7sA\u002BymWChZu8kPcNliNeDvyN4/0KwVQSgouKh9kGqsEJG\u002BiDTGTEwmzcx4z5l7Z5I0EVy48xu\u002BnNe955x7cifBP4XjONr8/Pz4xMTEWCAQkN6/g6Zp0AVqtdrpxsZGdn19fU/klVERX1lZebq6\u002BuSZA008AhQUm2iJ/\u002BlFqSlOKkPcJGmGYVi7u7vZdDqdzGQyH3kxIZVKPTdN0zbNmqBpi07sGklhs95GXsPrfUmsVqu2KGDv7OwUlpaWxrkJAZ0/CdSIOhpJqbaDjy/oj8GVYkro6enB8PBwdHl5\u002BcXi4uIk\u002BzkqQGPwt7gJOtJbJcA2SbZ4dNlslgrdTiaT6UQicSUwMzMzKzhHmwks5QZOpxLLOMU8nUCqOw309/cjHo9jYGBAGxwcjBeLxTCfoD2Jp9u\u002BvxtbIO1gMIhIJALbduJeASVt2/Y221K2U611pasz2cFuBANBBAK6rasgJVbJSVrSbqZlWa5u\u002BT7H8RtiyplpuqCm2WdGpFgq1zv6u1Hl8Y7hutxb1LzAEV1VTQubn6soG6bXqdutPKns2tsjybbMLPPDG5E6Po0mv1/HZs7A9p7RUqCdtIf3d7gMqgSfgBarwI9yA5/yRWzlfuLtZgnlyqkXb16nyD56pE1QksAFFCiwf1zByGUdVsPCy3cn\u002BHb4y9usSEmJCqowQUkFPRaLidvobqqfWsgfVBAJh/Dg3gXkj\u002BrIvDnmmCVvDn1HXEg8ZBMJ7JMkKH/LiA6\u002B13FYMMR3UEIkZGLkagivtk0cnVRF3F2j3g0asUpGejfo5XJZqsDa6wIe3o/i7s0opu/EsDB9CVYohLX3JY5TQpW0Rf9DBV38zOrilcbWlwqOKhYaWi\u002B9gfzrOBTrxa3rYRzXe/G1UPVOyollTlWE4I7FtynE15RwbegcVh8NoS8c5I7ob2ZyLIJU4iIez55HtI/8LpqTMppNoTeb2tTU1NyN0dEFLidxJkEb1J9JJzTHcrncB6n\u002BRzcAvwHDgC\u002Be/YWw1AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-01-20T07:40:03.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "qqEmail.png",
+              "DocumentMoniker": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Icon\\qqEmail.png",
+              "RelativeDocumentMoniker": "Icon\\qqEmail.png",
+              "ToolTip": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Icon\\qqEmail.png",
+              "RelativeToolTip": "Icon\\qqEmail.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-30T01:53:54.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dancing-Script-Bold.ttf",
+              "DocumentMoniker": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\FontFamilies\\Dancing-Script-Bold.ttf",
+              "RelativeDocumentMoniker": "FontFamilies\\Dancing-Script-Bold.ttf",
+              "ToolTip": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\FontFamilies\\Dancing-Script-Bold.ttf",
+              "RelativeToolTip": "FontFamilies\\Dancing-Script-Bold.ttf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMLSURBVEhL7VVLaxNRFP5mkjbGFCumgdQqhSq2xQqC2m7sA\u002BymWChZu8kPcNliNeDvyN4/0KwVQSgouKh9kGqsEJG\u002BiDTGTEwmzcx4z5l7Z5I0EVy48xu\u002BnNe955x7cifBP4XjONr8/Pz4xMTEWCAQkN6/g6Zp0AVqtdrpxsZGdn19fU/klVERX1lZebq6\u002BuSZA008AhQUm2iJ/\u002BlFqSlOKkPcJGmGYVi7u7vZdDqdzGQyH3kxIZVKPTdN0zbNmqBpi07sGklhs95GXsPrfUmsVqu2KGDv7OwUlpaWxrkJAZ0/CdSIOhpJqbaDjy/oj8GVYkro6enB8PBwdHl5\u002BcXi4uIk\u002BzkqQGPwt7gJOtJbJcA2SbZ4dNlslgrdTiaT6UQicSUwMzMzKzhHmwks5QZOpxLLOMU8nUCqOw309/cjHo9jYGBAGxwcjBeLxTCfoD2Jp9u\u002BvxtbIO1gMIhIJALbduJeASVt2/Y221K2U611pasz2cFuBANBBAK6rasgJVbJSVrSbqZlWa5u\u002BT7H8RtiyplpuqCm2WdGpFgq1zv6u1Hl8Y7hutxb1LzAEV1VTQubn6soG6bXqdutPKns2tsjybbMLPPDG5E6Po0mv1/HZs7A9p7RUqCdtIf3d7gMqgSfgBarwI9yA5/yRWzlfuLtZgnlyqkXb16nyD56pE1QksAFFCiwf1zByGUdVsPCy3cn\u002BHb4y9usSEmJCqowQUkFPRaLidvobqqfWsgfVBAJh/Dg3gXkj\u002BrIvDnmmCVvDn1HXEg8ZBMJ7JMkKH/LiA6\u002B13FYMMR3UEIkZGLkagivtk0cnVRF3F2j3g0asUpGejfo5XJZqsDa6wIe3o/i7s0opu/EsDB9CVYohLX3JY5TQpW0Rf9DBV38zOrilcbWlwqOKhYaWi\u002B9gfzrOBTrxa3rYRzXe/G1UPVOyollTlWE4I7FtynE15RwbegcVh8NoS8c5I7ob2ZyLIJU4iIez55HtI/8LpqTMppNoTeb2tTU1NyN0dEFLidxJkEb1J9JJzTHcrncB6n\u002BRzcAvwHDgC\u002Be/YWw1AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-30T03:26:44.68Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Plumage.ttf",
+              "DocumentMoniker": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\FontFamilies\\Plumage.ttf",
+              "RelativeDocumentMoniker": "FontFamilies\\Plumage.ttf",
+              "ToolTip": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\FontFamilies\\Plumage.ttf",
+              "RelativeToolTip": "FontFamilies\\Plumage.ttf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMLSURBVEhL7VVLaxNRFP5mkjbGFCumgdQqhSq2xQqC2m7sA\u002BymWChZu8kPcNliNeDvyN4/0KwVQSgouKh9kGqsEJG\u002BiDTGTEwmzcx4z5l7Z5I0EVy48xu\u002BnNe955x7cifBP4XjONr8/Pz4xMTEWCAQkN6/g6Zp0AVqtdrpxsZGdn19fU/klVERX1lZebq6\u002BuSZA008AhQUm2iJ/\u002BlFqSlOKkPcJGmGYVi7u7vZdDqdzGQyH3kxIZVKPTdN0zbNmqBpi07sGklhs95GXsPrfUmsVqu2KGDv7OwUlpaWxrkJAZ0/CdSIOhpJqbaDjy/oj8GVYkro6enB8PBwdHl5\u002BcXi4uIk\u002BzkqQGPwt7gJOtJbJcA2SbZ4dNlslgrdTiaT6UQicSUwMzMzKzhHmwks5QZOpxLLOMU8nUCqOw309/cjHo9jYGBAGxwcjBeLxTCfoD2Jp9u\u002BvxtbIO1gMIhIJALbduJeASVt2/Y221K2U611pasz2cFuBANBBAK6rasgJVbJSVrSbqZlWa5u\u002BT7H8RtiyplpuqCm2WdGpFgq1zv6u1Hl8Y7hutxb1LzAEV1VTQubn6soG6bXqdutPKns2tsjybbMLPPDG5E6Po0mv1/HZs7A9p7RUqCdtIf3d7gMqgSfgBarwI9yA5/yRWzlfuLtZgnlyqkXb16nyD56pE1QksAFFCiwf1zByGUdVsPCy3cn\u002BHb4y9usSEmJCqowQUkFPRaLidvobqqfWsgfVBAJh/Dg3gXkj\u002BrIvDnmmCVvDn1HXEg8ZBMJ7JMkKH/LiA6\u002B13FYMMR3UEIkZGLkagivtk0cnVRF3F2j3g0asUpGejfo5XJZqsDa6wIe3o/i7s0opu/EsDB9CVYohLX3JY5TQpW0Rf9DBV38zOrilcbWlwqOKhYaWi\u002B9gfzrOBTrxa3rYRzXe/G1UPVOyollTlWE4I7FtynE15RwbegcVh8NoS8c5I7ob2ZyLIJU4iIez55HtI/8LpqTMppNoTeb2tTU1NyN0dEFLidxJkEb1J9JJzTHcrncB6n\u002BRzcAvwHDgC\u002Be/YWw1AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-01-24T14:14:53.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "github.png",
+              "DocumentMoniker": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Icon\\github.png",
+              "RelativeDocumentMoniker": "Icon\\github.png",
+              "ToolTip": "D:\\\u738B\u6E05\u6E90\\Else\\VCProgamming\\Web\\WebTest\\MyWebTest\\Icon\\github.png",
+              "RelativeToolTip": "Icon\\github.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-29T05:19:59.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,15 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "main", "main", "{1EC11842-87AB-41D7-B1F2-E1D33DCB4920}"
-	ProjectSection(SolutionItems) = preProject
-		BoxDealer.js = BoxDealer.js
-		MyWebPage.html = MyWebPage.html
-		TypeCtrl.css = TypeCtrl.css
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{1C7DEFD9-E13D-4D41-841F-A4C9350D1AEA}"
 	ProjectSection(SolutionItems) = preProject
+		FontFamilies\Dancing-Script-Bold.ttf = FontFamilies\Dancing-Script-Bold.ttf
 		FontFamilies\Gauthier.ttf = FontFamilies\Gauthier.ttf
 		FontFamilies\Hanken-Book.ttf = FontFamilies\Hanken-Book.ttf
 		FontFamilies\Plumage.ttf = FontFamilies\Plumage.ttf
@@ -21,17 +15,38 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "icon", "icon", "{F0E69F9D-C2B3-411A-BBA8-34715D7E4779}"
 	ProjectSection(SolutionItems) = preProject
 		Icon\7forWeb.png = Icon\7forWeb.png
+		Icon\github.png = Icon\github.png
+		Icon\qqEmail.png = Icon\qqEmail.png
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "introductions", "introductions", "{97954640-2A34-456D-B8DB-FFCA0CD5FBD6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "programs", "programs", "{02FAB5E0-E8AD-4F4B-AA74-7CF913052C9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "main", "main", "{63674D11-00A0-40EB-A46D-B59271E8AF48}"
 	ProjectSection(SolutionItems) = preProject
-		Introductions\Introductions.html = Introductions\Introductions.html
-		Introductions\TypeCtrl.css = Introductions\TypeCtrl.css
+		Programs\main\programs.css = Programs\main\programs.css
+		Programs\main\programs.html = Programs\main\programs.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChemistryPusher", "ChemistryPusher", "{50338418-C9D7-4475-91B1-68801CA3B04B}"
+	ProjectSection(SolutionItems) = preProject
+		Programs\ChemistryPusher\RelativeMass\ChemistryPusher.html = Programs\ChemistryPusher\RelativeMass\ChemistryPusher.html
+		Programs\ChemistryPusher\RelativeMass\ChemistryPusher.js = Programs\ChemistryPusher\RelativeMass\ChemistryPusher.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MainPage", "MainPage", "{E122DCC9-A0DF-4634-A79A-F00F4AF0098E}"
+	ProjectSection(SolutionItems) = preProject
+		MainPage\BoxDealer.js = MainPage\BoxDealer.js
+		MainPage\MyWebPage.css = MainPage\MyWebPage.css
+		MainPage\MyWebPage.html = MainPage\MyWebPage.html
 	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{63674D11-00A0-40EB-A46D-B59271E8AF48} = {02FAB5E0-E8AD-4F4B-AA74-7CF913052C9E}
+		{50338418-C9D7-4475-91B1-68801CA3B04B} = {02FAB5E0-E8AD-4F4B-AA74-7CF913052C9E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {81286C87-3F76-4F93-8B6F-B7AB2CE4AF7E}

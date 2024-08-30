@@ -19,17 +19,22 @@ body {
 
 @font-face {
     font-family: 'Hanken-Book';
-    src: url(FontFamilies/Hanken-Book.ttf);
+    src: url(../FontFamilies/Hanken-Book.ttf);
 }
 
 @font-face {
     font-family: 'Gauthier';
-    src: url(FontFamilies/Gauthier.ttf);
+    src: url(../FontFamilies/Gauthier.ttf);
 }
 
 @font-face{
-    font-family:'Plumage';
-    src:url(FontFamilies/Plumage.ttf);
+    font-family: 'Plumage';
+    src: url(../FontFamilies/Plumage.ttf);
+}
+
+@font-face{
+    font-family: 'Dancing-Script-Bold';
+    src: url(../FontFamilies/Dancing-Script-Bold.ttf);
 }
 
 h4 {
@@ -40,7 +45,7 @@ h4 {
 
 @font-face {
     font-family: 'Sarina';
-    src: url(FontFamilies/Sarina.ttf)
+    src: url(../FontFamilies/Sarina.ttf)
 }
 
 .branchTitle {
@@ -57,13 +62,13 @@ h4 {
     color: white;
 }
 
-.StartContainer .container {
+.StartContainer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
 }
 
-    .StartContainer .container .box {
+    .StartContainer .box {
         box-sizing: border-box; /*防止鼠标悬浮在盒子上时因白边而向外扩张*/
         position: relative;
         width: 280px;
@@ -74,12 +79,12 @@ h4 {
         border-radius: 15px;
     }
 
-        .StartContainer .container .box:hover {
+        .StartContainer .box:hover {
             background-color: #FF007F;
             border: white 1.5px solid
         }
 
-    .StartContainer .container .FlexStyle {
+    .StartContainer .FlexStyle {
         color: white;
         text-decoration: none;
     }
@@ -89,13 +94,13 @@ h4 {
     font-family: Gauthier;
 }
 
-.self-def-container {
+.title-container {
     display: flex;
     justify-content: left;
     width: 300px;
 }
 
-    .self-def-container .boxtitle #TitleImageLike {
+    .title-container .boxtitle #TitleImageLike {
         position: relative;
         left: 85px;
         top: 95px;
@@ -104,7 +109,7 @@ h4 {
         border-radius: 10px;
     }
 
-    .self-def-container .boxtitle #TitleLike {
+    .title-container .boxtitle #TitleLike {
         position: relative;
         width: 900px;
         height: 130px;
@@ -114,13 +119,12 @@ h4 {
         border-left: #ffd966 3px solid;
     }
 
-.IntroContainer .container {
+.IntroContainer {
     display: grid;
     gap: 40px;
-    grid-template-columns: 1fr;
 }
 
-    .IntroContainer .container .box {
+    .IntroContainer .box {
         position: relative;
         background-color: rgba(255,255,255,0.15);
         border: white 1.5px solid;
@@ -130,16 +134,59 @@ h4 {
         padding: 20px;
     }
 
-        .IntroContainer .container .box h3 {
+        .IntroContainer .box h3 {
             color: #ffd966;
             font-size: 1.8em;
             font-family:Plumage;
         }
 
-        .IntroContainer .container .box ul li {
+        .IntroContainer .box ul li {
             list-style: none;
         }
 
-        .IntroContainer .container .box p {
+        .IntroContainer .box p {
             margin: 12px;
         }
+
+.contact-me-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.contact-me-container .box{
+    display: flex;
+    position: relative;
+    width: 250px;
+    height: 200px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-me-container .box #github-image{
+    position: relative;
+    width: 120px;
+    height: 100px;
+}
+
+.contact-me-container .box #qqEmail-image{
+    position: relative;
+    width: 80px;
+    height: 80px;
+    margin-bottom: 15px;
+}
+
+.end-content {
+    display: flex;
+    justify-content: space-around;
+    font-family: Dancing-Script-Bold;
+    font-size: 1.5em;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.end-copyright{
+    color: white rgba(255,255,255,0.15);
+    text-align: center;
+}
