@@ -19,34 +19,20 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "icon", "icon", "{F0E69F9D-C
 		Icon\qqEmail.png = Icon\qqEmail.png
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "programs", "programs", "{02FAB5E0-E8AD-4F4B-AA74-7CF913052C9E}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "main", "main", "{63674D11-00A0-40EB-A46D-B59271E8AF48}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DecMainPage", "DecMainPage", "{E122DCC9-A0DF-4634-A79A-F00F4AF0098E}"
 	ProjectSection(SolutionItems) = preProject
-		Programs\main\programs.css = Programs\main\programs.css
-		Programs\main\programs.html = Programs\main\programs.html
+		DecMainPage\BoxDealer.js = DecMainPage\BoxDealer.js
+		DecMainPage\MyWebPage.css = DecMainPage\MyWebPage.css
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChemistryPusher", "ChemistryPusher", "{50338418-C9D7-4475-91B1-68801CA3B04B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTMLs", "HTMLs", "{44A30E92-4AAF-4F17-8CCA-A9C901CAAD7A}"
 	ProjectSection(SolutionItems) = preProject
-		Programs\ChemistryPusher\RelativeMass\ChemistryPusher.html = Programs\ChemistryPusher\RelativeMass\ChemistryPusher.html
-		Programs\ChemistryPusher\RelativeMass\ChemistryPusher.js = Programs\ChemistryPusher\RelativeMass\ChemistryPusher.js
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MainPage", "MainPage", "{E122DCC9-A0DF-4634-A79A-F00F4AF0098E}"
-	ProjectSection(SolutionItems) = preProject
-		MainPage\BoxDealer.js = MainPage\BoxDealer.js
-		MainPage\MyWebPage.css = MainPage\MyWebPage.css
-		MainPage\MyWebPage.html = MainPage\MyWebPage.html
+		MyWebPage.html = MyWebPage.html
 	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{63674D11-00A0-40EB-A46D-B59271E8AF48} = {02FAB5E0-E8AD-4F4B-AA74-7CF913052C9E}
-		{50338418-C9D7-4475-91B1-68801CA3B04B} = {02FAB5E0-E8AD-4F4B-AA74-7CF913052C9E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {81286C87-3F76-4F93-8B6F-B7AB2CE4AF7E}
